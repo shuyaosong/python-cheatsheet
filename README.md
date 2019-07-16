@@ -1,4 +1,5 @@
 Comprehensive Python Cheatsheet
+内含超全代码示例。内容覆盖容器（Collections）、类型（Types）、语法（Syntax）、系统（System）、数据（Data）、库（Libraries）等等Python编程的主要类别，以及Advanced Python内容。
 ===============================
 <sup>[Download text file](https://raw.githubusercontent.com/gto76/python-cheatsheet/master/README.md), [Fork me on GitHub](https://github.com/gto76/python-cheatsheet) or [Check out FAQ](https://github.com/gto76/python-cheatsheet/wiki/Frequently-Asked-Questions).
 </sup>
